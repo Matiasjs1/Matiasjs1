@@ -32,9 +32,8 @@ Full stack developer focused on **building and shipping**. I've shipped live gam
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Matiasjs1?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=6a7bff" alt="Followers"/>
-  <img src="https://img.shields.io/github/repo-count/Matiasjs1?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=9b6bff" alt="Repos"/>
-  <img src="https://img.shields.io/github/stars/Matiasjs1?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=6a7bff" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/Matiasjs1?style=for-the-badge&label=Followers&logo=github&logoColor=white&labelColor=0d1117&color=6a7bff" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Matiasjs1?style=for-the-badge&label=Stars&logo=github&logoColor=white&labelColor=0d1117&color=9b6bff" alt="Stars"/>
 </p>
 
 ---
